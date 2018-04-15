@@ -1,0 +1,16 @@
+{
+  "name": "mentalMath",
+  "version": "0.0.1",
+  "description": "A basic Flush Anzan implementation",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^1.8.4"
+  },
+  "dependencies": {
+    "electron-packager": "^11.2.0",
+    "screen": "^0.2.10"
+  }
+}
